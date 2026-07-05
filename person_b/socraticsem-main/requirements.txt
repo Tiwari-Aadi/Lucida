@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+anthropic
+numpy
+scipy
+pydantic
+python-dotenv
+requests
